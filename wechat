@@ -1,0 +1,4 @@
+# wechat rules
+PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat,Proxy
+USER-AGENT,MicroMessenger*,Proxy
+USER-AGENT,%E5%BE%AE%E4%BF%A1*,Proxy
